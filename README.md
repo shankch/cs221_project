@@ -4,7 +4,7 @@ Recommendation system: Graph Matrix Completion with Multi Graph Neural Network
 # Multi-Graph Convolutional Neural Networks
 The code contained in this repository represents a TensorFlow implementation of the Recurrent Multi-Graph Convolutional Neural Network depicted in:
 
-Recommendation System using Geometric Matrix Completion withMulti-Graph Neural Networks (CS221 project)<br>
+Recommendation System using Geometric Matrix Completion with Multi-Graph Neural Networks (CS221 project)<br>
 Shashank(sshashan@stanford.edu)
 
 ## Repository Structure
